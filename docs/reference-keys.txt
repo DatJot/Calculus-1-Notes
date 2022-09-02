@@ -1,4 +1,2 @@
 about
-usage
-render-book
-preview-book
+rate-of-change-tangent-lines-to-curves-2.1
