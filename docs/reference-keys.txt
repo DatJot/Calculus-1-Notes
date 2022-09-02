@@ -1,2 +1,2 @@
 about
-rate-of-change-tangent-line-2.1
+rate-of-change-tangent-line
