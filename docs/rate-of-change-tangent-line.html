@@ -101,6 +101,22 @@
 <h1><span class="header-section-number">Chapter 2</span> Rate of Change &amp; Tangent Line<a href="rate-of-change-tangent-line.html#rate-of-change-tangent-line" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <div id="solved-problems" class="section level2 hasAnchor" number="2.1">
 <h2><span class="header-section-number">2.1</span> Solved Problems<a href="rate-of-change-tangent-line.html#solved-problems" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>At the beginning of Calculus 1, you probably will work on Rate of Change and Tangent Line of a Curve. The following are problems you might encounter.</p>
+<p>Given the following function, find the average rate of change over the given intervals.</p>
+<p><span class="math inline">\(f(x)= 10x^3 +10 \qquad a)[5,7] \quad b)[-3,3]\)</span></p>
+<p>For solving this problem, I am going to use the slope formula, which can take many form.
+<span class="math display">\[
+m = \frac{y_2 - y_1}{x_2 - x_1}\\
+m = \frac{f(x_2) - f(x_1))}{x_2 - x_1}\]</span></p>
+<pre><code>Time to do the Math</code></pre>
+<p><span class="math display">\[m = \frac{f(x_2)  -  f(x_1))}{x_2 - x_1}\\
+m = \frac{f(5)  -  f(7)}{5  -  7}\\
+m = \frac{10x^3 +  10  -  10x^3  +  10}{5  -  7}\\
+m = \frac{10(5)^3 +  10  -  10(7)^3  + 10}{5  -  7}\\
+m = \frac{1260  -  3440}{5  -  7}\\
+m = 1090
+\]</span></p>
+<pre><code>With that said, the slope is 1090 on the interval [5,7]</code></pre>
 
 </div>
 </div>
@@ -164,6 +180,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
