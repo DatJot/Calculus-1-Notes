@@ -1,5 +1,5 @@
 --- 
-title: "Calculus 1 Notes"
+title: "DatJot's Calculus 1 Notes"
 author: "DatJot"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
