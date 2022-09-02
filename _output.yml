@@ -3,10 +3,10 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">A Minimal Book Example</a></li>
+        <li><a href="./">DatJot's Calculus 1 Notes/a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+        <li><a href="https://datjot.github.io/Calculus-1-Notes/" target="blank">DatJot Calculus 1 Notes</a></li>
+    edit: https://github.com/DatJot/Calculus-1-Notes/edit/main/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
