@@ -16,14 +16,5 @@ github-repo: rstudio/bookdown-demo
 
 
 
-## Usage 
-
-
-
-
-## Render book
-
-
-## Preview book
 
 
