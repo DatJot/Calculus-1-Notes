@@ -2,12 +2,13 @@
 
 ## Solved Problems
 At the beginning of Calculus 1, you probably will work on Rate of Change and Tangent Line of a Curve. The following are problems you might encounter.
-
+````
 Given the following function, find the average rate of change over the given intervals.
-
+````
 $f(x)= 10x^3 +10 \qquad  a)[5,7] \quad b)[-3,3]$ 
-
+````
 For solving this problem, I am going to use the slope formula, which can take many form.
+````
 $$
 m = \frac{y_2 - y_1}{x_2 - x_1}\\
 m = \frac{f(x_2) - f(x_1))}{x_2 - x_1}$$
